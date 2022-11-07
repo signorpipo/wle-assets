@@ -21,3 +21,4 @@ For the ones I've just adjusted or straight up added to this repo, you can look 
   
 # Credits
   - [Meta Quest 1 Low Poly Gamepads](https://github.com/SignorPipo/wle_assets/tree/main/wle_assets/assets/models/gamepads/meta_quest_1/low_poly) by [Jezza3D](https://sketchfab.com/Jezza3D), with small adjustments made by me
+  - [Meta Quest 2 Classic Gamepads](https://github.com/SignorPipo/wle_assets/tree/main/wle_assets/assets/models/gamepads/meta_quest_2/classic) by [Immersive Web](https://github.com/immersive-web/webxr-input-profiles), with small adjustments made by me
