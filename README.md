@@ -6,7 +6,7 @@ The assets that u will find in this repo have been built or adjusted to work pro
 This means, for example, that the gamepads models will be in the right position and will have the proper rotation when synced with the WebXR hand transform.
 
 Some of the assets have not been made by me.  
-You will find a link to the source (if available) in the [Credits](Credits) section.
+You will find a link to the source (if available) in the [Credits](#credits) section.
 
 ## Quick Assets Summary
 
@@ -20,4 +20,4 @@ For the ones I've just adjusted or straight up added to this repo, you can look 
 
   
 # Credits
-  - [Meta Quest 1 Low Poly Gamepads](https://github.com/SignorPipo/wle_assets/wle_assets/assets/models/gamepads/meta_quest_1/low_poly) by [Jezza3D](https://sketchfab.com/Jezza3D), with small adjustments made by me
+  - [Meta Quest 1 Low Poly Gamepads](https://github.com/SignorPipo/wle_assets/tree/main/wle_assets/assets/models/gamepads/meta_quest_1/low_poly) by [Jezza3D](https://sketchfab.com/Jezza3D), with small adjustments made by me
