@@ -9,7 +9,12 @@ For the assets that have not been made by me, you will find a link to the source
 
 A collection of Wonderland Engine template projects where you can use these assets can be found [here](https://github.com/SignorPipo/wle_ppefault).
 
-You can also get these assets through `npm`:
+# Downloads
+
+You can download these assets through the following link:
+  * [`wle_assets`](https://github.com/SignorPipo/wle_assets/releases/latest/download/wle_assets.zip)
+
+You can also download these assets through `npm`:
   * `npm install wle_assets`
 
 # Quick Assets Summary
