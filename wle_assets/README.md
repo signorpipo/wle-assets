@@ -7,7 +7,8 @@ This means, for example, that the gamepads models will be in the right position 
 
 For the assets that have not been made by me, you will find a link to the source (if available) in the [Credits](#credits) section.
 
-A collection of Wonderland Engine template projects where you can use these assets can be found [here](https://github.com/SignorPipo/wle_ppefault).
+A default template project that already includes the PP library can be found [here](https://github.com/SignorPipo/wle_ppefault).  
+A collection of playground template projects that already include the PP library can be found [here](https://github.com/SignorPipo/wle_pplaygrounds).
 
 # Downloads
 
