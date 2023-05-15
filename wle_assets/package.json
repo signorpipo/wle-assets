@@ -1,20 +1,23 @@
 {
-    "name": "wle_assets",
+    "name": "wle-assets",
     "version": "0.1.1",
     "description": "A collection of assets that can be useful when working with the Wonderland Engine",
     "author": "Pipo",
-    "homepage": "https://github.com/SignorPipo/wle_assets",
+    "homepage": "https://github.com/SignorPipo/wle-assets",
     "repository": {
         "type": "git",
-        "url": "https://github.com/SignorPipo/wle_assets"
+        "url": "https://github.com/SignorPipo/wle-assets"
     },
     "license": "ISC",
     "files": [
         "assets"
     ],
     "keywords": [
+        "pp",
+        "pipo",
         "wonderland",
         "wonderlandengine",
+        "wonderland-engine",
         "wonderland engine",
         "wle",
         "webxr"
