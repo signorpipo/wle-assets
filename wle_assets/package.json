@@ -3,10 +3,10 @@
     "version": "0.1.1",
     "description": "A collection of assets that can be useful when working with the Wonderland Engine",
     "author": "Pipo",
-    "homepage": "https://github.com/SignorPipo/wle-assets",
+    "homepage": "https://github.com/signorpipo/wle-assets",
     "repository": {
         "type": "git",
-        "url": "https://github.com/SignorPipo/wle-assets"
+        "url": "https://github.com/signorpipo/wle-assets"
     },
     "license": "ISC",
     "files": [
